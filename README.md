@@ -90,14 +90,6 @@ Production AWS infrastructure with multi-tier architecture
 
 ---
 
-## 📊 GitHub Stats
-
-![Ayomide's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayoung9598&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoung9598&layout=compact&theme=radical&hide_border=true)
-
----
-
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
