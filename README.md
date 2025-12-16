@@ -16,7 +16,7 @@ Cloud & Machine Learning Engineer with professional experience designing, automa
 - 🤖 **AI/ML Engineering** - Building generative AI applications with LangChain, LlamaIndex, CrewAI and AWS Bedrock
 - 🏗️ **Infrastructure as Code** - Terraform, CloudFormation for automated deployments
 - 🔄 **CI/CD Pipelines** - GitHub Actions, AWS CodePipeline for continuous delivery
-- 📊 **Machine Learning** - End-to-end ML pipelines with Amazon SageMaker, scikit-learn, XGBoost, TensorFlow, Google Cloud Vercel AI
+- 📊 **Machine Learning** - End-to-end ML pipelines with Amazon SageMaker, scikit-learn, XGBoost, TensorFlow, Google Cloud Vertex AI
 
 ---
 
